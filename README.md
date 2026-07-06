@@ -63,15 +63,8 @@ Recommendations
 
 > **Customer Shopping Behavior Dashboard**
 
-*(Add your dashboard screenshot here)*
+<img width="1352" height="737" alt="Customer Shopping Behavior Analysis Dashboard" src="https://github.com/user-attachments/assets/c20f8d91-27ac-4c3f-908c-f566aaaa6630" />
 
-Example:
-
-```
-images/dashboard.png
-```
-
----
 
 ## 📈 Key Performance Indicators (KPIs)
 
