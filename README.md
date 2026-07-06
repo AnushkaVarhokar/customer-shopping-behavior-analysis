@@ -63,7 +63,8 @@ Recommendations
 
 > **Customer Shopping Behavior Dashboard**
 
-<img width="1352" height="737" alt="Customer Shopping Behavior Analysis Dashboard" src="https://github.com/user-attachments/assets/c20f8d91-27ac-4c3f-908c-f566aaaa6630" />
+<img width="1417" height="787" alt="Customer Shopping Behavior Analysis Dashboard" src="https://github.com/user-attachments/assets/f8af08b5-f009-4fbb-a2dc-d0e47bfb8ea1" />
+
 
 
 ## 📈 Key Performance Indicators (KPIs)
@@ -165,12 +166,6 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── dashboard/
 │   └── Customer_Behavior_Dashboard.pbix
-│
-├── images/
-│   ├── dashboard.png
-│   ├── sql_output_1.png
-│   ├── sql_output_2.png
-│   └── ...
 │
 ├── report/
 │   └── Customer_Shopping_Behavior_Report.pdf
